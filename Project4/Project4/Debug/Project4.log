@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\vadim\source\repos\Project4\Project4\main.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\vadim\source\repos\Project4\Project4\template.h(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\vadim\source\repos\Project4\Project4\main.cpp(27): message : выполняется компиляция ссылки на экземпляр шаблон функции "void search<int>(T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\vadim\source\repos\Project4\Project4\template.h(14,8): warning C4244: инициализация: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  Project4.vcxproj -> C:\Users\vadim\source\repos\Project4\Debug\Project4.exe
